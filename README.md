@@ -2,6 +2,19 @@
 
 **Betterwork.ai** has evolved from a long-held idea into a full-fledged solution for developers, enhancing productivity and streamlining workflows with AI-powered dev tools.
 
+---
+
+
+✦ No more waiting—crafting your digital realities. 
+
+🌐 Featured #21 on Product Hunt.
+
+recognized by Peerlist’s CEO @designerdada. 
+
+
+---
+
+ 
 ### 🚀 Boost Your Productivity
 Encountering online challenges daily? Our tools are designed to supercharge your workflow, empowering developers everywhere to achieve more in less time. Ready to experience the future of productivity? **Join the waitlist and be part of the next evolution in development!**
 
